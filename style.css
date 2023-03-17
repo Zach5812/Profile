@@ -18,9 +18,11 @@
 
 .prof-bar{
     display: flex;
-    list-style: none;
-    margin: auto;
+    width: 250px;
+    align-items: center;
+    justify-content: space-between;
 }
+
 
 .sign-out{
     background-color: cornflowerblue;
